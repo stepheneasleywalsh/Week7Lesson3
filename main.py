@@ -1,6 +1,6 @@
 # QUADRATIC SOLVER
 
-#Greet
+# Greet
 print("I can solve ax^2 + bx + c = 0 for you!")
 
 # Input Loop
