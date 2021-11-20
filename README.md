@@ -1,7 +1,5 @@
 # QUESTION
-
 ## Write a program that solves the quadratic equation with one or more real roots. The coefficients can be real numbers i.e. floats.
-
 ### Your program should behave as shown below.
 
 I can solve ax^2 + bx + c = 0 for you!
