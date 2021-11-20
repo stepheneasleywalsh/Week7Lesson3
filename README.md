@@ -1,8 +1,8 @@
-# Solve Quadratics
+# QUESTION
 
-## Write a program that solves the quadratic
+## Write a program that solves the quadratic equations with one or more real roots. The coefficient can be real numbers i.e. floats.
 
-## An example of what it should do is below
+### Your program should behave as shown below.
 
 I can solve ax^2 + bx + c = 0 for you!
 
