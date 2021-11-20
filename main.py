@@ -16,7 +16,7 @@ while validInput == False:
         elif delta < 0:
             print("Sorry, but that quadratic does not have real roots.")
         else:
-            print("That you, that is a valid input :) OKAY I'LL SOLVE IT NOW.")
+            print("Thank you, that is a valid input :) OKAY I'LL SOLVE IT NOW.")
             validInput = True
     except:
         print("That is not real number!")

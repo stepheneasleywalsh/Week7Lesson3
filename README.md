@@ -34,7 +34,7 @@ Please give me the 'b' coefficent: ***2.6***
 
 Please give me the 'c' coefficent: ***-3.1***
 
-That you, that is a valid input :) OKAY I'LL SOLVE IT NOW.
+Thank you, that is a valid input :) OKAY I'LL SOLVE IT NOW.
 
 Root 1: -2.5452904416018893
 
