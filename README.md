@@ -1,6 +1,6 @@
 # QUESTION
 
-## Write a program that solves the quadratic equations with one or more real roots. The coefficient can be real numbers i.e. floats.
+## Write a program that solves the quadratic equation with one or more real roots. The coefficient can be real numbers i.e. floats.
 
 ### Your program should behave as shown below.
 
