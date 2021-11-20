@@ -24,7 +24,7 @@ Please give me the 'a' coefficient: ***1***
 
 Please give me the 'b' coefficient: ***two 2 bla bla bla***
 
-That is not real number!
+That is not a real number!
 
 Please give me the 'a' coefficient: ***1.5***
 

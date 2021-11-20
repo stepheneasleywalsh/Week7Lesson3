@@ -19,7 +19,7 @@ while validInput == False:
             print("Thank you, that is a valid input :) OKAY I'LL SOLVE IT NOW.")
             validInput = True
     except:
-        print("That is not real number!")
+        print("That is not a real number!")
 
 # Print the Roots or Root
 if delta > 0:
