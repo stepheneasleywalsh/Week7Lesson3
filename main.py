@@ -7,9 +7,9 @@ print("I can solve ax^2 + bx + c = 0 for you!")
 validInput = False
 while validInput == False:
     try:
-        a = float(input("Please give me the 'a' coefficent: "))
-        b = float(input("Please give me the 'b' coefficent: "))
-        c = float(input("Please give me the 'c' coefficent: "))
+        a = float(input("Please give me the 'a' coefficient: "))
+        b = float(input("Please give me the 'b' coefficient: "))
+        c = float(input("Please give me the 'c' coefficient: "))
         delta = b**2 - 4*a*c
         if a == 0:
             print("Sorry, but 'a' cannot be zero.")
